@@ -1,0 +1,21 @@
+# C/C++ build artifacts
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# STM32CubeIDE specific
+.metadata/
+*.launch
+
+# Python / Scripts
+__pycache__/
+*.pyc
+venv/
+
+# OS generated
+.DS_Store
+Thumbs.db
